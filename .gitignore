@@ -1,0 +1,9 @@
+*.pyc
+__pycache__/
+.ipynb_checkpoints
+data_analysis/images/*/*.jpeg
+database/formatted/*.csv
+database/filled/*.csv
+database/offsetted/*.csv
+database/filtered/*.csv
+data_analysis/images/*/*.png
