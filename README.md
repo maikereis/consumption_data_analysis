@@ -1,5 +1,7 @@
 # Power consumption data analysis
 
+![](https://img.shields.io/github/license/xxkavosxx/consumption_data_analysis)
+
 This repository is part of my undergraduate monograph. The objectives of the work were:
  * Data collection using IoT nodes
  * Analyze the consumption of electricity in a home and correlate them with environmental variables 
