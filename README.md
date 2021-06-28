@@ -19,4 +19,8 @@ __Repository structure:__
 * **data_analysis**: data analysis like, mean, load consumption compositivion, correlations.
 * **img** : contains figures, plots and graphics exported from the analysis notebooks
 
+To view the analysis, first you need to install *requirements.txt*, then run *data_processing/TREATER* notebooks in order
+
+Then you can run the notebooks under *data_analysis*
+
  
