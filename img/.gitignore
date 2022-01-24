@@ -2,5 +2,5 @@
 *
 # Except this file
 !.gitignore 
-!nodes/
-!results/
+!nodes/*.jpg
+!results/*.png
