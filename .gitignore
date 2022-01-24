@@ -1,7 +1,9 @@
 *.pyc
 __pycache__/
 .ipynb_checkpoints
-database/formatted/*.csv
-database/filled/*.csv
 database/offsetted/*.csv
+database/formatted/*.csv
+database/fixed/*.csv
 database/filtered/*.csv
+database/filled/*.csv
+database/formatted/*.csv
