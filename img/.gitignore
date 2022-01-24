@@ -1,6 +1,9 @@
-# Ignore everything in this directory
-*
-# Except this file
-!.gitignore 
-!nodes/*.jpg
-!results/*.png
+bar/*
+corr/*
+distribution/*
+donut/*
+energy_and_discomfort/*
+outliers/*
+series/*
+temp_hum_variation/*
+waste/*
