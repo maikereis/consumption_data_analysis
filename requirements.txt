@@ -15,7 +15,7 @@ lazy-object-proxy==1.6.0
 matplotlib==3.4.1
 mccabe==0.6.1
 mysql-connector==2.2.9
-numpy==1.21.0
+numpy==1.22.0
 pandas==1.2.4
 parso==0.8.2
 patsy==0.5.1
